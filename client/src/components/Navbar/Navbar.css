@@ -1,0 +1,57 @@
+.main-navbar {
+  padding: 0 2rem;
+  width: 100%;
+  height: 8vh;
+  background-color: #353535;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+}
+
+.main-navbar div {
+  width: 30rem;
+  display: flex;
+  align-items: center;
+}
+
+.main-navbar form {
+  width: 30rem;
+  height: 2.5rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.main-navbar form button {
+  padding: 0.5rem 1.5rem;
+  height: 100%;
+  background-color: #088b85;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.main-navbar form input[type="text"] {
+  height: 100%;
+  padding: 0.5rem 2rem;
+  border-radius: 5px;
+  outline: none;
+}
+
+.main-navbar form button:hover {
+  opacity: 0.7;
+}
+
+.checkbox {
+  width: 2rem;
+  height: 2rem;
+}
+
+.main-navbar div p {
+  margin-left: 1rem;
+  font-size: 1.1rem;
+  color: #f84c4c;
+  font-weight: 100;
+}

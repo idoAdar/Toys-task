@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+}
+
+.toys-grid {
+  margin: 0 auto;
+  width: 56rem;
+  height: auto;
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}

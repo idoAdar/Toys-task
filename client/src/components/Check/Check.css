@@ -1,0 +1,11 @@
+.total-price-box {
+  display: flex;
+  color: white;
+  background-color: #353535;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem auto;
+  width: 18rem;
+  height: 9rem;
+  box-shadow: 2px 3px 6px #6d6d6d;
+}
